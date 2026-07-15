@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-07-15T09:40:35Z",
+  "generatedAt": "2026-07-15T10:44:48Z",
   "notebooks": [
     {
       "id": "default-notebook",
@@ -76,7 +76,7 @@
       "themeId": "minimal-blue",
       "createdAt": "2026-07-14T03:04:16Z",
       "updatedAt": "2026-07-15T03:18:48Z",
-      "path": "articles/wechat-article-1783998256389-14db6d8617e8.md",
+      "path": "articles/wechat-article-1783998256389.md",
       "contentSha256": "14db6d8617e8b8135696c0089c636fccf9ee8b68f3f687b1260d6ab390c373c7"
     },
     {
@@ -93,7 +93,7 @@
       "themeId": "minimal-blue",
       "createdAt": "2026-07-14T03:26:49Z",
       "updatedAt": "2026-07-15T03:18:43Z",
-      "path": "articles/wechat-article-1783999609315-e3b0c44298fc.md",
+      "path": "articles/wechat-article-1783999609315.md",
       "contentSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
@@ -105,13 +105,13 @@
       "sortOrder": 3,
       "isFavorite": false,
       "isFullWidth": false,
-      "title": "未命名文档",
+      "title": "测试富媒体资源上传",
       "summary": "",
       "themeId": "minimal-blue",
       "createdAt": "2026-07-15T03:18:34Z",
-      "updatedAt": "2026-07-15T09:40:34Z",
-      "path": "articles/wechat-article-1784085514806-e3b0c44298fc.md",
-      "contentSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      "updatedAt": "2026-07-15T10:44:45Z",
+      "path": "articles/wechat-article-1784085514806.md",
+      "contentSha256": "e91deaa8714dcb0cf36183f1afef2a5a9060ece99abdf2551d8c16389066961b"
     },
     {
       "id": "wechat-article-1784104886434",
@@ -161,11 +161,40 @@
       "themeId": "minimal-blue",
       "createdAt": "2026-07-15T08:42:00Z",
       "updatedAt": "2026-07-15T08:43:52Z",
-      "path": "articles/wechat-article-1784104920367-f3017bf28bcb.md",
+      "path": "articles/wechat-article-1784104920367.md",
       "contentSha256": "f3017bf28bcb0bf8d16141d892c0691c38fbebbf264b888909233182022c727b"
     }
   ],
-  "assets": [],
+  "assets": [
+    {
+      "id": "wechat-image-1784110206165-863a21477c2f",
+      "articleId": "wechat-article-1784085514806",
+      "fileName": "image.png",
+      "mimeType": "image/png",
+      "sizeBytes": 14376,
+      "sha256": "863a21477c2fab1506604701d6feed9c46644303efc6bac3b5aac0939a07ad6c",
+      "path": "assets/wechat-article-1784085514806/wechat-image-1784110206165-863a21477c2f.png",
+      "uploadedUrl": null,
+      "uploadedAt": null,
+      "uploadError": null,
+      "createdAt": "2026-07-15T10:10:06Z",
+      "updatedAt": "2026-07-15T10:10:06Z"
+    },
+    {
+      "id": "wechat-image-1784110233556-66319b17b3fe",
+      "articleId": "wechat-article-1784085514806",
+      "fileName": "4c809572fdafc0b2cc7fb2fe58f3f8d15d1cb588.jpeg",
+      "mimeType": "image/jpeg",
+      "sizeBytes": 498706,
+      "sha256": "66319b17b3fe712e55f7516517c71b0851a7ea8769e473525a15bf7efff2a34d",
+      "path": "assets/wechat-article-1784085514806/wechat-image-1784110233556-66319b17b3fe.jpg",
+      "uploadedUrl": null,
+      "uploadedAt": null,
+      "uploadError": null,
+      "createdAt": "2026-07-15T10:10:33Z",
+      "updatedAt": "2026-07-15T10:10:33Z"
+    }
+  ],
   "tombstones": {
     "notebooks": [],
     "articles": [],
