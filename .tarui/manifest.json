@@ -1,0 +1,191 @@
+{
+  "version": 2,
+  "generatedAt": "2026-07-15T09:40:35Z",
+  "notebooks": [
+    {
+      "id": "default-notebook",
+      "name": "我的笔记",
+      "createdAt": "2026-01-01T00:00:00Z",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "notebook-1784085501211",
+      "name": "工作使用",
+      "createdAt": "2026-07-15T03:18:21Z",
+      "updatedAt": "2026-07-15T08:41:17Z"
+    },
+    {
+      "id": "notebook-1784085502439",
+      "name": "新建笔记本",
+      "createdAt": "2026-07-15T03:18:22Z",
+      "updatedAt": "2026-07-15T03:18:22Z"
+    },
+    {
+      "id": "notebook-1784085503118",
+      "name": "新建笔记本",
+      "createdAt": "2026-07-15T03:18:23Z",
+      "updatedAt": "2026-07-15T03:18:23Z"
+    }
+  ],
+  "articles": [
+    {
+      "id": "wechat-article-1783932365878",
+      "icon": "article",
+      "notebookId": "default-notebook",
+      "nodeType": "folder",
+      "parentId": null,
+      "sortOrder": 1,
+      "isFavorite": false,
+      "isFullWidth": false,
+      "title": "一级目录",
+      "summary": "",
+      "themeId": "minimal-blue",
+      "createdAt": "2026-07-13T08:46:05Z",
+      "updatedAt": "2026-07-15T03:18:46Z",
+      "path": null,
+      "contentSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "wechat-article-1783932554092",
+      "icon": "article",
+      "notebookId": "default-notebook",
+      "nodeType": "folder",
+      "parentId": "wechat-article-1783932365878",
+      "sortOrder": 1,
+      "isFavorite": false,
+      "isFullWidth": false,
+      "title": "二级目录",
+      "summary": "",
+      "themeId": "minimal-blue",
+      "createdAt": "2026-07-13T08:49:14Z",
+      "updatedAt": "2026-07-15T02:46:30Z",
+      "path": null,
+      "contentSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "wechat-article-1783998256389",
+      "icon": "bookmark",
+      "notebookId": "default-notebook",
+      "nodeType": "document",
+      "parentId": "wechat-article-1783932554092",
+      "sortOrder": 2,
+      "isFavorite": false,
+      "isFullWidth": false,
+      "title": "文档",
+      "summary": "一句话概括这篇文章给读者带来的价值。",
+      "themeId": "minimal-blue",
+      "createdAt": "2026-07-14T03:04:16Z",
+      "updatedAt": "2026-07-15T03:18:48Z",
+      "path": "articles/wechat-article-1783998256389-14db6d8617e8.md",
+      "contentSha256": "14db6d8617e8b8135696c0089c636fccf9ee8b68f3f687b1260d6ab390c373c7"
+    },
+    {
+      "id": "wechat-article-1783999609315",
+      "icon": "message",
+      "notebookId": "default-notebook",
+      "nodeType": "document",
+      "parentId": "wechat-article-1783932554092",
+      "sortOrder": 1,
+      "isFavorite": false,
+      "isFullWidth": false,
+      "title": "文档",
+      "summary": "",
+      "themeId": "minimal-blue",
+      "createdAt": "2026-07-14T03:26:49Z",
+      "updatedAt": "2026-07-15T03:18:43Z",
+      "path": "articles/wechat-article-1783999609315-e3b0c44298fc.md",
+      "contentSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "wechat-article-1784085514806",
+      "icon": "music",
+      "notebookId": "default-notebook",
+      "nodeType": "document",
+      "parentId": "wechat-article-1783932554092",
+      "sortOrder": 3,
+      "isFavorite": false,
+      "isFullWidth": false,
+      "title": "未命名文档",
+      "summary": "",
+      "themeId": "minimal-blue",
+      "createdAt": "2026-07-15T03:18:34Z",
+      "updatedAt": "2026-07-15T09:40:34Z",
+      "path": "articles/wechat-article-1784085514806-e3b0c44298fc.md",
+      "contentSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "wechat-article-1784104886434",
+      "icon": "article",
+      "notebookId": "notebook-1784085501211",
+      "nodeType": "folder",
+      "parentId": null,
+      "sortOrder": 1,
+      "isFavorite": false,
+      "isFullWidth": false,
+      "title": "沃行",
+      "summary": "",
+      "themeId": "minimal-blue",
+      "createdAt": "2026-07-15T08:41:26Z",
+      "updatedAt": "2026-07-15T08:41:30Z",
+      "path": null,
+      "contentSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "wechat-article-1784104897613",
+      "icon": "article",
+      "notebookId": "notebook-1784085501211",
+      "nodeType": "folder",
+      "parentId": "wechat-article-1784104886434",
+      "sortOrder": 2,
+      "isFavorite": false,
+      "isFullWidth": false,
+      "title": "环境账号相关",
+      "summary": "",
+      "themeId": "minimal-blue",
+      "createdAt": "2026-07-15T08:41:37Z",
+      "updatedAt": "2026-07-15T08:41:57Z",
+      "path": null,
+      "contentSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "id": "wechat-article-1784104920367",
+      "icon": "book",
+      "notebookId": "notebook-1784085501211",
+      "nodeType": "document",
+      "parentId": "wechat-article-1784104897613",
+      "sortOrder": 1,
+      "isFavorite": false,
+      "isFullWidth": false,
+      "title": "环境与账号",
+      "summary": "记录各个环境以及账号密码",
+      "themeId": "minimal-blue",
+      "createdAt": "2026-07-15T08:42:00Z",
+      "updatedAt": "2026-07-15T08:43:52Z",
+      "path": "articles/wechat-article-1784104920367-f3017bf28bcb.md",
+      "contentSha256": "f3017bf28bcb0bf8d16141d892c0691c38fbebbf264b888909233182022c727b"
+    }
+  ],
+  "assets": [],
+  "tombstones": {
+    "notebooks": [],
+    "articles": [],
+    "assets": [
+      {
+        "id": "wechat-image-1783329606858-111f31608d83",
+        "deletedAt": "2026-07-15T09:40:35Z"
+      },
+      {
+        "id": "wechat-image-1783329618575-5aaf3ed69f58",
+        "deletedAt": "2026-07-15T09:40:35Z"
+      },
+      {
+        "id": "wechat-image-1783329732626-66319b17b3fe",
+        "deletedAt": "2026-07-15T09:40:35Z"
+      },
+      {
+        "id": "wechat-image-1783329870425-5aaf3ed69f58",
+        "deletedAt": "2026-07-15T09:40:35Z"
+      }
+    ]
+  }
+}
