@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generatedAt": "2026-07-15T10:44:48Z",
+  "generatedAt": "2026-07-17T09:58:25Z",
   "notebooks": [
     {
       "id": "default-notebook",
@@ -104,14 +104,14 @@
       "parentId": "wechat-article-1783932554092",
       "sortOrder": 3,
       "isFavorite": false,
-      "isFullWidth": false,
+      "isFullWidth": true,
       "title": "测试富媒体资源上传",
       "summary": "",
       "themeId": "minimal-blue",
       "createdAt": "2026-07-15T03:18:34Z",
-      "updatedAt": "2026-07-15T10:44:45Z",
+      "updatedAt": "2026-07-17T09:58:22Z",
       "path": "articles/wechat-article-1784085514806.md",
-      "contentSha256": "e91deaa8714dcb0cf36183f1afef2a5a9060ece99abdf2551d8c16389066961b"
+      "contentSha256": "4d21d92a8c485d39cf28d6b191e04e91c4f6d8b44d7e21b2805a1b8bef0b8fe2"
     },
     {
       "id": "wechat-article-1784104886434",
